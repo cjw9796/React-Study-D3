@@ -1,4 +1,5 @@
 
+### 로컬 폴더명 : project-css
 
 ### 초기 설치
     npx create-react-app 내가원하는폴더이름
